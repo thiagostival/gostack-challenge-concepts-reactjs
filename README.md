@@ -11,7 +11,7 @@
 <h2> 🚀 Sobre o desafio </h2>
 
 <p>
-Continuando o desenvolvimento da aplicação que irá armazenar repositórios do portfólio, que já desenvolvi o backend no último desafio utilizando o Node.js. (<a href src="https://github.com/thiagostival/gostack-challenge-concepts-nodejs.git" title="Diretorio do desafio 02">Disponível aqui</a>).
+Continuando o desenvolvimento da aplicação que irá armazenar repositórios do portfólio, que já desenvolvi o backend no último desafio utilizando o Node.js. (<a href src="https://github.com/thiagostival/gostack-challenge-concepts-nodejs" title="Diretorio do desafio 02">Disponível aqui</a>).
 </p>
 
 <br>
